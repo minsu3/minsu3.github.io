@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Masters in Data Science after working in healthcare data analytics. 
+Data Analyst currently pursuing Masters in Data Science (2026 expected) in United Kingdom. 
+
+About Me
+======
 
 I have several years of analytics and programming experience, from creating software projects for hackathons in the US, interning for startups for mental health, and extracting, transforming, and loading data using Excel, Python, and SQL. 
 
@@ -15,5 +18,5 @@ During my career in programming, I was assigned a project to create the landing 
 
 In my most recent experience at Exodus Recovery, I took full ownership in the flagship program where I was the point of contact for all data related projects. The new program followed our migration from Access to cloud platforms (CareLogic and Pentaho), where I automated monthly demographic reports by writing SQL queries to extract data from complex pipelines. 
 
-For more information please visit my [Github](https://github.com/minsu3) and connect with me on [Linkedin](https://www.linkedin.com/in/minsukim97/)
+Feel free to connect with me or connect via [Linkedin](https://www.linkedin.com/in/minsukim97/).
 
