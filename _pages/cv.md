@@ -11,17 +11,20 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, [Nottingham Trent University](https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science), 2026 (expected)
-* B.A. in Political Science and Music (double), [University of California, Santa Barbara](https://www.ucsb.edu/), 2020
+* MS in Data Science, [Nottingham Trent University](https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science), 2026 (expected)
+* BA in Political Science and Music (double), [University of California, Santa Barbara](https://www.ucsb.edu/), 2020
 
 Work experience
 ======
 * **Exodus Recovery** Decision Support Data Analyst, [August 2022 - August 2025]
-  * Built data models and ETL processes using Oracle SQL and Excel, integrating data from Access and CareLogic EMR system.
-  * Directed the data strategy for the flagship program, improving reporting accuracy and increasing patient intake by 8%.
-  * Analyzed admission data for 2,000+ clients using pivot and Tableau dashboards to enhance program operations and clinical outcomes.
-  * Partnered with the VP of Decision Support to guide budget planning, financial forecasting, and cost analysis.
-  * Delivered county-compliant reports by collaborating with stakeholders across 26 departments and 4 counties.
+  * Analyzed client intake and program performance, driving operational improvements and enhancing clinical outcomes.	         
+  * Produced county-compliant reports for 26 departments across 4 Southern California counties for board members.
+  * Built and optimized ETL workflows in Oracle SQL and Excel, integrating Access and CareLogic EHR.
+  * Supported data-related issues for flagship program, increasing client intake by 30% since the launch.
+  * Created interactive dashboards in Tableau and Pentaho for executive insights.
+  * Executed budget analysis, forecasting, and cost reviews, supporting strategic planning.
+  * Automated intake audits, improving data accuracy by 5%.
+
 
 * **Apple Inc** Data Imagery Analyst, [May 2021 - May 2022]
   * Analyzed 3D mapping data using Apple proprietary software to maintain geospatial datasets.
@@ -39,7 +42,8 @@ Work experience
 Skills
 ======
 * Python 
-  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn, scikit-surprise, SciPy
+  * Pandas, NumPy, MatPlotLib, Seaborn, Tkinter, Plotly
+* R 
 * SQL
 * Excel
 * Power BI
@@ -47,7 +51,7 @@ Skills
 * Looker Studio
 * Google Analytics
 * Web Development
-  * HTML, CSS, Javascript, React
+  * HTML, CSS, Javascript, React, MongoDB, Node.js
 
 
 Hobbies
@@ -55,7 +59,8 @@ Hobbies
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-* Long distance running
-* Cello
+* Symphony Orchestra (Cello, Clarinet)
+* Long distance running (LA Marathon 2025, Edinburgh Marathon 2026)
+* Cycling (Gravel, Road Racing)
 * Photography
   
