@@ -12,7 +12,7 @@ main:
     url: /cv/
 
   - title: "Portfolio"
-    url: /talks/    
+    url: /portfolio/    
 
   - title: "Hobbies"
     url: /hobbies/   

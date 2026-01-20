@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* **Exodus Recovery** Data Analyst, [August 2022 - August 2025]
+* **Exodus Recovery** Decision Support Data Analyst, [August 2022 - August 2025]
   * Built data models and ETL processes using Oracle SQL and Excel, integrating data from Access and CareLogic EMR system.
   * Directed the data strategy for the flagship program, improving reporting accuracy and increasing patient intake by 8%.
   * Analyzed admission data for 2,000+ clients using pivot and Tableau dashboards to enhance program operations and clinical outcomes.

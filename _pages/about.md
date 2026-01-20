@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Data Analyst currently pursuing Masters in Data Science (2026 expected) in United Kingdom. 
+Currently a Masters in Data Science student at Nottingham Trent University (2026). Previously a data analyst specializing in healthcare operations and revenue insights. 
 
 About Me
 ======
 
-I have several years of analytics and programming experience, from creating software projects for hackathons in the US, interning for startups for mental health, and extracting, transforming, and loading data using Excel, Python, and SQL. 
+My work consists of creating decision-ready insights that improve financial accuracy, operational efficiency, and compliance in behavioral health organizations.
 
-During my career in programming, I was assigned a project to create the landing page for Gaia Wearable, an app based platform to predict and detect client meltdowns and episodes. I had the opportunity to build with Typescript and connect the REST APIs with NodeJS to create the user log-in flow and data visualization as part of the landing page. 
+In my professional experience as a data analyst, I’ve been trusted to work with complex datasets related to financial audits, demographics, billing, and productivity metrics. I’ve supported decision-makers by turning raw data into actionable insights. I’ve seen firsthand how thorough analysis can improve operations, accuracy, and accountability. Being valued in these roles has reinforced my belief that my strength lies in connecting technical skills with clear narratives.
 
-In my most recent experience at Exodus Recovery, I took full ownership in the flagship program where I was the point of contact for all data related projects. The new program followed our migration from Access to cloud platforms (CareLogic and Pentaho), where I automated monthly demographic reports by writing SQL queries to extract data from complex pipelines. 
+My journey into data science blends creativity and logic, though I wasn’t always focused on working with data. Growing up immersed in music playing cello and clarinet and I studied music at University of California, Santa Barbara. Despite picturing my career in orchestral performance as exciting and glamorous, I kept gravitating more towards technical skills. Mathematics and problem-solving have always been my strenght in school as I participated in robotic camps and math competitions. After graduation, a coding bootcamp and frontend development work rekindled my technical interests, where I continue to work on practical, meaningful solutions.
 
-Feel free to connect with me or connect via [Linkedin](https://www.linkedin.com/in/minsukim97/).
+As an aspiring data scientist, I bring a well-rounded perspective shaped by both the arts and quantitative disciplines. I approach data with curiosity not just to find answers, but to understand the story behind the numbers and communicate it in a way that creates impact.
+
+If you would like to work with me, please feel free connect with me or connect via [Linkedin](https://www.linkedin.com/in/minsukim97/).
 
