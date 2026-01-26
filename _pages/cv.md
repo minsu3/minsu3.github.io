@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MS in Data Science, [Nottingham Trent University](https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science), 2026 (expected)
-* BA in Political Science and Music (double), [University of California, Santa Barbara](https://www.ucsb.edu/), 2020
+* MS in Data Science, [Nottingham Trent University](https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science), Sep 2026
+* BA in Political Science and Music (double), [University of California, Santa Barbara](https://www.ucsb.edu/), Jun 2020
 
 Work experience
 ======

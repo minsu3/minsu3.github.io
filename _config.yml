@@ -26,11 +26,11 @@ author:
   avatar           : "IMG_9154.jpg"
   name             : "Minsu Kim"
   pronouns         : # example: "she/her"  
-  bio              : "MSc Data Science Student"
+  bio              : "Data Scientist"
   location         : "United Kingdom / California"
   employer         : # "Nottingham Trent University"
   uri              : # URL
-  email            : "kim97minsu@gmail.com" 
+  email            : # "kim97minsu@gmail.com" 
 
   # Academic websites
   academia         : # URL

@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Currently pursuing a Master’s in Data Science at Nottingham Trent University (2026), with prior experience as a data analyst focused on behavioral health analytics.
+Currently studying a MSc in Data Science (September 2026) with prior experience in healthcare informatics and app development.
 
 About Me
 ======
 
-I focus on turning complex data into clear, decision-ready insights that improve financial accuracy, operational efficiency, and compliance in behavioral health organizations.
+I am a data professional who enjoys turning data into insights to help people make better decisions. I’ve worked in healthcare, technology, and startups, helping teams understand their data and use it to improve operations and outcomes. 
 
-In my work as a data analyst, I’ve handled data related to financial audits, demographics, billing, and productivity metrics, helping leaders make informed decisions from complex, real-world data. These experiences have shown me the value of pairing solid analysis with clear communication to make insights actually useful.
+Over the past 3 years, I supported daily operations and helped improve clinical outcomes for behavioral health organizations, successfully increasing continuity rates through data-driven reports and dashboards. Early in my career, I contributed to a startup building monitoring tools for individuals with autism, developing frontend applications and real-time data visualization.
 
-My path into data science combines creativity and problem-solving. I studied both music and politics at UC Santa Barbara, but was always drawn to technical thinking through math, robotics, and coding. After graduating, a coding bootcamp and frontend development work helped me transition toward building practical, data-driven solutions.
+As of now, I'm pursuing a Master's in Data Science to advance my technical skills and take ownership in deeper level projects. My path into data science combines creativity and problem-solving. I hold two BA's in Music and Political Science, but I was always drawn to technical work through constant involvement with math, robotics, and programming. After graduating undergrad, a coding bootcamp and frontend development internship helped me transition toward building my career as a data professional.
 
-Today, I approach data with curiosity—looking beyond the numbers to understand the story they tell and communicate insights that make an impact. 
+In my spare time, I try to squeeze in around 30 running miles into my [Strava](https://www.strava.com/athletes/minsukim). I also play the cello (and occasionally perform). I like to keep my life balanced with music, physical activities, and deep work.
 
-If you’d like to work together, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/minsukim97/).
+If you would like to connect or collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/minsukim97/).
 
