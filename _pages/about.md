@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Data professional with prior experience in behavioral health analysis, geospatial data, full stack development, and many more.
+Data professional with prior experience in behavioral health analysis, geospatial analysis, full stack development, and many more.
 
 About Me
 ======
